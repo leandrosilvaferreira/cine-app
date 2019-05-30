@@ -29,7 +29,7 @@ Folder: *cine-api-q*
 To run the application, use:
 
 ``` bash
-./mvnw compile quarkus:dev
+mvn compile quarkus:dev
 ```
 Once started, you can request the provided endpoint:
 
@@ -47,7 +47,7 @@ This will also listen for a debugger on port 5005. If your want to wait for the 
 The application is packaged using:
 
 ```bash
- ./mvnw package
+ mvn package
  ```
  
  It produces 2 jar files:
