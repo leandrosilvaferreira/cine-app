@@ -35,7 +35,7 @@ Folder: *cine-api-q*
 To run the application, use:
 
 ``` bash
-./mvn compile quarkus:dev
+mvn compile quarkus:dev
 ```
 Once started, it runs on:
 
