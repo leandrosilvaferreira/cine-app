@@ -15,7 +15,7 @@
         <surefire-plugin.version>2.22.0</surefire-plugin.version>
         <lombok.version>1.18.6</lombok.version>
         <commons-jcs-jcache.version>2.2.1</commons-jcs-jcache.version>
-        <hazelcast.version>3.12</hazelcast.version>
+        <hazelcast.version>3.12.13</hazelcast.version>
         <cache-api.version>1.0.0</cache-api.version>
         <frontend-maven-plugin.version>1.7.6</frontend-maven-plugin.version>
     </properties>
